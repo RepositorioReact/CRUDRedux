@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "id": 2,
+      "nombre": "Jugo de Naranja",
+      "precio": "1"
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "110",
+      "id": 5
+    },
+    {
+      "nombre": "Jugo de champiñón",
+      "precio": "10",
+      "id": 6
+    },
+    {
+      "nombre": "Agua 1L",
+      "precio": 0.69,
+      "id": 7
+    },
+    {
+      "nombre": "Leche Entera Sin Lactosa",
+      "precio": 1,
+      "id": 8
+    }
+  ]
+}
